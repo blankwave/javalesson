@@ -1,5 +1,5 @@
 first task 
-install jdk 17 netbeans 12.5 tomcat 9
+install jdk 17 netbeans 12.5 tomcat 9 xampp
 
 in first task we will foucus on revision
 |1| WAP to print the multiplication of given number
