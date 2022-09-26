@@ -1,0 +1,17 @@
+first task 
+install jdk 17 netbeans 12.5 tomcat 9
+
+in first task we will foucus on revision
+|1| WAP to print the multiplication of given number
+|2| What is function? 
+    WAP to print your name using not returning function
+    WAP to find sum using returning function
+    WAP to find division using returning function which can also return decimal value
+|3| WAP to find the length of array and sum of numbers inside an array. array = [12,22,32,42,52,62,72]
+|4| WAP to print the following pattern
+    1
+    1 2
+    1 2 3
+    1 2 3 4
+    1 2 3 4 5
+|5| WAP to display ASCII value of given character & print from a to z;
