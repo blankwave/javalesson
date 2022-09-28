@@ -1,0 +1,11 @@
+|1| What is data types? List out it’s types. WAP to Print out a persons name, age, height, gender and is that person below age 18 using different variable types.
+    https://www.w3schools.com/java/java_data_types.asp
+|2| What is operator? List out its types. WAP to find addition, subtraction, multiplication, division, reminder and greater number, input by user.
+    Hint make user input two number.
+    https://www.w3schools.com/java/java_operators.asp
+|3| WAP to find maximum, minimum, square root, absolute and random number using a math class.
+    https://www.w3schools.com/java/java_math.asp
+|4| WAP to ask gender from user. Use if…else condition to print if that use is male, female, gay, lesbian or invalid.
+    WAP to solve same questions using switch case.
+    https://www.w3schools.com/java/java_conditions.asp
+|5| WAP to program to declare array with 5 diffrent variable types and insert value by yourself and print out all values.
