@@ -1,0 +1,12 @@
+|1| What is Primitive and and non primitive data types? List out Primitive and non primitive data types.
+    WAP to take input from user for each primitive and non primitive data types and print those varaiables.
+|2| Study this page. I will ask you what each operator does.
+    https://www.w3schools.com/java/java_operators.asp
+|3| WAP to take a positive integer from user and print sum upto that number using for loop.
+    WAP to take a positive integer from user and find out numbers divisiable by 3 upto that number using while loop.
+    WAP to print fibonacci series upto 2584 using do while
+|4| WAP to find out palindrome in the given array using for each.
+    array1 = [123,45,66,788,898,101101,1221,234];
+    array2 = ['apple','madam','short','deed','city','malayalam'];
+|5| WAP to for loop upto 10 times, use break when loop reaches reaches 4.
+    WAP to for loop upto 10 times, use continue when loop reaches reaches 4.
